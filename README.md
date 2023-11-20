@@ -7,7 +7,7 @@ Result: It was accepted due to the low training and testing errors and high r-sq
 
 Conjecture 2: <br> 
 Null Hypothesis: “A car's total quantity of sales is solely determined by its pricing, horsepower, or engine size." <br> 
-Result: It was rejected due to a large training error demonstrating the test was not very accurate.
+Result: It was rejected due to large training errors, demonstrating the test was not very accurate.
 
 Conjecture 3: <br> 
 Null Hypothesis: “We can accurately predict a car's fuel capacity by looking at the factors that contribute to the size of the vehicle.” <br> 
