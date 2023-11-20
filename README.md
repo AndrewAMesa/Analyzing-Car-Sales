@@ -5,10 +5,10 @@ Conjecture 1: <br>
 Null Hypothesis: “We can predict a car’s selling price by analyzing its horsepower, fuel efficiency, fuel capacity, and performance power.” <br> 
 Result: It was accepted due to the low training and testing errors and high r-squared value.
 
-Conjecture 2:
-Null Hypothesis: “A car's total quantity of sales is solely determined by its pricing, horsepower, or engine size."
+Conjecture 2: <br> 
+Null Hypothesis: “A car's total quantity of sales is solely determined by its pricing, horsepower, or engine size." <br> 
 Result: It was rejected due to a large training error demonstrating the test was not very accurate.
 
-Conjecture 3:
-Null Hypothesis: “We can accurately predict a car's fuel capacity by looking at the factors that contribute to the size of the vehicle.”
+Conjecture 3: <br> 
+Null Hypothesis: “We can accurately predict a car's fuel capacity by looking at the factors that contribute to the size of the vehicle.” <br> 
 Result: It was rejected due to accuracy (~30%) being low.
