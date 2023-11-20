@@ -12,3 +12,10 @@ Result: It was rejected due to a large training error demonstrating the test was
 Conjecture 3: <br> 
 Null Hypothesis: “We can accurately predict a car's fuel capacity by looking at the factors that contribute to the size of the vehicle.” <br> 
 Result: It was rejected due to accuracy (~30%) being low.
+
+Instructions to Run Code
+1) Download Python, which can be found here https://www.python.org/downloads/.
+2) Ensure pip is downloaded.
+3) Install necessary libraries using pip.
+4) Copy Python files in this repository to your local machine.
+5) Run the Python files. To see some graphs plt.show() must be uncommented.
