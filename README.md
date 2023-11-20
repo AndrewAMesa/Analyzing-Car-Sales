@@ -17,5 +17,5 @@ Instructions to Run Code
 1) Download Python, which can be found here https://www.python.org/downloads/.
 2) Ensure pip is downloaded.
 3) Install necessary libraries using pip (e.g. Pandas, Seaborn, Matplotlib, etc.).
-4) Copy Python files in this repository to your local machine.
+4) Copy files in this repository to your local machine.
 5) Run the Python files. To see some graphs plt.show() must be uncommented.
