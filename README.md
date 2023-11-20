@@ -1,8 +1,8 @@
 # Analyzing-Car-Sales
 The three Python scripts were created to answer different conjectures on this dataset. Along with the Python language, these scripts utilize the Pandas, Seaborn, and Matplotlib libraries to analyze and visualize the data. The conjectures and reasons that each conjectures was accepted or rejected are listed below.
 
-Conjecture 1: <br>
-Null Hypothesis: “We can predict a car’s selling price by analyzing its horsepower, fuel efficiency, fuel capacity, and performance power.” <br>
+Conjecture 1: <br> 
+Null Hypothesis: “We can predict a car’s selling price by analyzing its horsepower, fuel efficiency, fuel capacity, and performance power.” <br> 
 Result: It was accepted due to the low training and testing errors and high r-squared value.
 
 Conjecture 2:
